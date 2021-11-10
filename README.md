@@ -1,5 +1,7 @@
 The Site is LIVE on: https://optimistic-heisenberg-98a8bd.netlify.app/
 
+Although this website does not have any functionality, the main aim of this project was to learn Styled Components, redux and a bit of animation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
