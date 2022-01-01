@@ -1,4 +1,4 @@
-The Site is LIVE on: https://optimistic-heisenberg-98a8bd.netlify.app/
+The Site is LIVE on: https://tesla-clone-98a8bd.netlify.app/
 
 Although this website does not have any functionality, the main aim of this project was to learn Styled Components, redux and a bit of animation.
 
